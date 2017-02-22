@@ -10,6 +10,11 @@ h3 {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
+.print {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .header {
 font-family: 'Yellowtail', cursive;
 font-style: italic;
