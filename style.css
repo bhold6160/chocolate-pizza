@@ -1,0 +1,13 @@
+* {
+
+}
+
+.header {
+font-family: 'Lobster Two', cursive;
+font-style: italic;
+}
+
+.nav {
+display: flex;
+justify-content: flex-end;
+}
