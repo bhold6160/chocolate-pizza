@@ -1,5 +1,4 @@
 * {
-
 }
 
 h2 {
@@ -8,6 +7,17 @@ font-family: 'Anton', sans-serif;
 
 h3 {
   font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.combineLogo {
+  display: flex;
+
+}
+
+.container {
+  margin-left: 15%;
+  margin-right: 15%;
+  display: block;
 }
 
 .print {
@@ -32,4 +42,8 @@ font-size: 12px
 
 .list {
   font-family: 'Patrick Hand', cursive;
+}
+
+.footer {
+  text-align: center;
 }
